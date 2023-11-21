@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfirst_projects"]=self["webpackChunkfirst_projects"]||[]).push([[7463],{7463:function(t,e,s){s.r(e),s.d(e,{default:function(){return f}});var r=s(3396);const n={class:"center-all-teams"},c={class:"container mx-auto p-1"},u={class:"w-full h-auto"};function a(t,e,s,a,o,i){const l=(0,r.up)("router-view");return(0,r.wg)(),(0,r.iD)("section",n,[(0,r._)("div",c,[(0,r._)("div",u,[(0,r.Wm)(l)])])])}var o={name:"AllTeams",setup(){return{}}},i=s(89);const l=(0,i.Z)(o,[["render",a]]);var f=l}}]);
+//# sourceMappingURL=7463.fa97cb96.js.map
